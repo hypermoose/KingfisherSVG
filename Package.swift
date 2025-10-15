@@ -17,7 +17,7 @@ let package = Package(
         )
     ],
     dependencies: [
-        .package(url: "https://github.com/onevcat/Kingfisher", .upToNextMajor(from: "7.8.1"))
+        .package(url: "https://github.com/onevcat/Kingfisher", .upToNextMajor(from: "8.0.0"))
     ],
     targets: [
         .target(

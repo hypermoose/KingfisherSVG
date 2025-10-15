@@ -18,5 +18,5 @@ KingfisherWebP is an extension of the [Kingfisher](https://github.com/onevcat/Ki
   s.watchos.deployment_target = "6.0"
   s.tvos.deployment_target = "13.0"
   s.source_files = 'Sources/**/*.{swift}'
-  s.dependency 'Kingfisher', '~> 7.8.1'
+  s.dependency 'Kingfisher', '~> 8.0.0'
 end
