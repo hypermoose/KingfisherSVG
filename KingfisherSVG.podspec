@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'KingfisherSVG'
-  s.version          = '1.0.0'
+  s.version          = '2.0.1'
   s.swift_version    = '5.9'
   s.summary          = 'A Kingfisher extension helping you process svg format'
 
